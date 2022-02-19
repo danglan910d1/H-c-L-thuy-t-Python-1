@@ -1,0 +1,9 @@
+Phép toán cơ bản
+mũ **
+số bé nhất min()
+số lớn nhất min()
+giá trị tuyệt đối abs()
+căn bậc hai math.sqrt(x)
+giai thừa math.factorial(x)
+làm tròn lên math.ceil(x)
+làm tròn xuống math.floor(x)

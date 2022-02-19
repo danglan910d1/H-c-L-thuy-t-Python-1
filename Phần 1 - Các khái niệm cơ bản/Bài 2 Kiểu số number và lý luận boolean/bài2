@@ -1,0 +1,15 @@
+Number: 
+- Interger(số nguyên): Là hệ thống số thập phân (số từ 0 đến n), thập lục phân (1 - 9, A - F)  và nhị phân (mã gồm hai số 0 và 1)
+- Floating Point Numbers (Số thực): Các số tpaaj phân có phần thập phân sử dụng "e" hoặc "E" và theo sau là các số nguyên thống
+- Complex number(Số phức)
+- Boolean (kiểu luận) có hai giá trị là true và false
+
+Phép toán cơ bản:
+a = 10
+b = 5 
+a + b -> 15
+a - b -> 5
+a * b -> 50
+a / b -> 2
+b//a (chia làm tròn xuống) -> 5//10 = 0
+a%b (chia lấy dư) -> 0

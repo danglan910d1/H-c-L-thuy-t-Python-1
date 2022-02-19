@@ -1,0 +1,15 @@
+- Trong Python, tất cả mọi thứ đều là một đối tượng(Object). Kiểu chuỗi (Strings), kiểu số (Numbers) và kiểu logic (Booleans) cũng 
+được coi là một đối tượng
+- Đối tượng được xem như một ô chứa dữ liệu bên trong.
+- Kiểu số (Number), kiểu chuỗi (String) và kiểu logic (Boolean) chỉ chứa 1 giá trị duy nhất
+- Tuples, Lists. Set, Dictionaries có thể chứa được một hoặc nhiều giá trị
+
+Name, Type, Id
+- Mỗi Object sẽ có Name, Type và Id (mã số )
+- Type và id không được thay đổi trong suốt vòng đời của 1 object.
+- Hàm: type(), id()
+
+Object names
+- Tên của object chỉ bao gồm chữ, số và dấu gạch chân.
+(a-z, A-Z, 0-9, _)
+- Tên của object không được bắt đầu bằng con số.
