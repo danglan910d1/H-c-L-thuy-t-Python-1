@@ -1,0 +1,17 @@
+Lớp là class, đối tượng là Object
+Mỗi lớp có nhiều đối tượng. 
+Ví dụ: 
+Lớp: Hoa
+Đối tượng:
+- Hoa đào
+- Hoa mai
+- Hoa cúc
+- Hoa sen
+- ...
+Trong một lớp gồm: methods(hành động) và attribute(thuộc tính)
+Ví dụ: lớp: con chim
+- Attribute: chân, mỏ, lông vũ
+- Methods: Bay, ăn, đẻ trứng
+Methods thường là động từ, Attribute thường là danh từ. 
+Methods là một functions, Attribute là một variable
+
