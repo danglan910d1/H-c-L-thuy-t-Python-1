@@ -1,0 +1,2 @@
+Thực tế Python là ngôn ngữ chỉ có set list díc tuples, không có array.
+-> Phải import module Numpy vào để sử dụng Array

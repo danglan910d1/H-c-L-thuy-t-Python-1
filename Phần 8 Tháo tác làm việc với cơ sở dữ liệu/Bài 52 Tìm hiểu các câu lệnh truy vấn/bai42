@@ -1,0 +1,35 @@
+4 SQL cần nhớ
+INSERT : Thêm vào dữ liệu
+INSERT INTO table (cola, colb)  VALUES ("val1", "val2")
+CREATE TABLE "monhoc" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,"name" VARCHAR NOT NULL)
+DROP TABLE "main"."monhoc"
+
+UPDATE : Sửa tên bảng
+UPDATE table SET cola = "x" WHERE id = 10
+Ví dụ: 
+    cola    
+1   val1 -> id = 1, sửa val1 = "x
+2   val2
+3   val3
+
+DELETE : Xóa
+DELETE FROM table : tất cả dữ liệu đều bị xóa
+DELETE FROM table WHERE id = 1 : xóa dữ liệu dòng 1
+
+SELECT: Lấy ra
+SELECT *FROM table : Lấy tất cả dữ liệu ra
+SELECT *FROM table WHERE id = 3 : Xóa một dòng ở vị trí id = 3
+SELECT *FROM table ORDER BY id DRESC/ASC : Lấy ra dữ liệu mới nhất theo thứ tự giảm dần/ tăng dần
+SELECT *FROM table LIMIT x, y : Lấy dữ liệu trong một khoảng dòng, x là vị trí bắt đầu lấy, (dòng đầu tiên là 0), y là số dòng muốn lấy
+Ví dụ: Lấy ra hai dòng 3 và 4: SELECT *FROM table LIMIT 2, 2
+1
+2
+3
+4
+5
+6
+7
+SELECT *FROM table [WHERE id = 3] [ORDER BY id DESC] LIMIT 2, 2
+
+
+
