@@ -1,7 +1,7 @@
 STT	Tên Tỉnh
 1	An Giang
 2	Bà rịa – Vũng tàu
-3	Bắc Giang
+3	Bắc Giang 
 4	Bắc Kạn
 5	Bạc Liêu
 6	Bắc Ninh
